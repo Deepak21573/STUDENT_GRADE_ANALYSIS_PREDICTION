@@ -2,7 +2,7 @@
 # Objective
 Prediction of Portuguese high school pupils' final grades
 
-#Problem Statement
+# Problem Statement
 The problem is stated as follows: "Given a dataset containing attributes of 396 Portuguese students, define classification algorithms to determine whether the student performs well on the final grade exam, as well as to evaluate various machine learning models on the dataset."
 
 # Description Of Dataset
